@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitAndReverseSolultionNamespace", "SplitAndReverseSolultionNamespace.csproj", "{461AB77B-AEE4-409F-933E-E5408B3A0486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitAndReverseCollection.Test", "SplitAndReverseCollection.Test\SplitAndReverseCollection.Test.csproj", "{788690A3-E94F-41E0-A8AF-E966E068D813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461AB77B-AEE4-409F-933E-E5408B3A0486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461AB77B-AEE4-409F-933E-E5408B3A0486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461AB77B-AEE4-409F-933E-E5408B3A0486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461AB77B-AEE4-409F-933E-E5408B3A0486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788690A3-E94F-41E0-A8AF-E966E068D813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788690A3-E94F-41E0-A8AF-E966E068D813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788690A3-E94F-41E0-A8AF-E966E068D813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788690A3-E94F-41E0-A8AF-E966E068D813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

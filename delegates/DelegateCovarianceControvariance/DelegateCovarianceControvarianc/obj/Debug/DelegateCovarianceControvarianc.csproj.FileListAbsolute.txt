@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCovarianceControvarianc\DelegateCovarianceControvarianc\bin\Debug\DelegateCovarianceControvarianc.exe.config
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCovarianceControvarianc\DelegateCovarianceControvarianc\bin\Debug\DelegateCovarianceControvarianc.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCovarianceControvarianc\DelegateCovarianceControvarianc\bin\Debug\DelegateCovarianceControvarianc.pdb
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCovarianceControvarianc\DelegateCovarianceControvarianc\obj\Debug\DelegateCovarianceControvarianc.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCovarianceControvarianc\DelegateCovarianceControvarianc\obj\Debug\DelegateCovarianceControvarianc.pdb

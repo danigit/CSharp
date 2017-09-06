@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../ComplexityAttribute" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Executer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TestAttribute" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ComplexityAttribute/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ComplexityAttribute/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Executer/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Executer/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestAttribute/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestAttribute/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

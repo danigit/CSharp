@@ -1,0 +1,15 @@
+/home/dani/git/tap/EmailSenderImplementation1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/EmailSenderImplementation1/bin/Debug/EmailSenderImplementation1.dll.mdb
+/home/dani/git/tap/EmailSenderImplementation1/bin/Debug/EmailSenderImplementation1.dll
+/home/dani/git/tap/EmailSenderImplementation1/obj/Debug/EmailSenderImplementation1.dll
+/home/dani/git/tap/EmailSenderImplementation1/obj/Debug/EmailSenderImplementation1.dll.mdb
+/home/dani/git/tap/EmailSenderImplementation1/bin/Debug/EmailSenderInterface.dll
+/home/dani/git/tap/EmailSenderImplementation1/bin/Debug/EmailSenderInterface.dll.mdb
+/home/dani/git/tap/EmailSenderImplementation1/bin/Debug/EmailSenderInterface.pdb
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/bin/Debug/EmailSenderImplementation1.dll.mdb
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/bin/Debug/EmailSenderImplementation1.dll
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/obj/Debug/EmailSenderImplementation1.dll
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/obj/Debug/EmailSenderImplementation1.dll.mdb
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/bin/Debug/EmailSenderInterface.dll
+/home/dani/git/tap/DependencyInjectionEmail/EmailSenderImplementation1/bin/Debug/EmailSenderInterface.dll.mdb

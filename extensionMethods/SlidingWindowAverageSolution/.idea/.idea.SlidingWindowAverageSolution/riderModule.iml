@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../SlidingWindowAverage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../SlidingWindowTest" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SlidingWindowAverage/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SlidingWindowAverage/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SlidingWindowTest/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SlidingWindowTest/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,5 @@
+/home/dani/git/tap/extensionMethods/PackSequence/PackSequence/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/extensionMethods/PackSequence/PackSequence/bin/Debug/PackSequence.dll.mdb
+/home/dani/git/tap/extensionMethods/PackSequence/PackSequence/bin/Debug/PackSequence.dll
+/home/dani/git/tap/extensionMethods/PackSequence/PackSequence/obj/Debug/PackSequence.dll
+/home/dani/git/tap/extensionMethods/PackSequence/PackSequence/obj/Debug/PackSequence.dll.mdb

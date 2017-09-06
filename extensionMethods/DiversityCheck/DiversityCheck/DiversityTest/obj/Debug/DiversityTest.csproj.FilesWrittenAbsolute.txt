@@ -1,0 +1,8 @@
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/bin/Debug/DiversityTest.dll.mdb
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/bin/Debug/DiversityTest.dll
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/obj/Debug/DiversityTest.dll
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/obj/Debug/DiversityTest.dll.mdb
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/bin/Debug/nunit.framework.dll
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/bin/Debug/DiversityCheck.dll
+/home/dani/git/tap/diversityCheck/DiversityCheck/DiversityTest/bin/Debug/DiversityCheck.dll.mdb

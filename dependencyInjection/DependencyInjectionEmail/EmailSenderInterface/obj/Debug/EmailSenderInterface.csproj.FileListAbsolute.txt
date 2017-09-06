@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\EmailSenderInterface\bin\Debug\EmailSenderInterface.dll
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\EmailSenderInterface\bin\Debug\EmailSenderInterface.pdb
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\EmailSenderInterface\obj\Debug\EmailSenderInterface.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\EmailSenderInterface\obj\Debug\EmailSenderInterface.dll
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\EmailSenderInterface\obj\Debug\EmailSenderInterface.pdb

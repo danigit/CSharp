@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\IteratorGenericListSolution\IteratorGenericList\bin\Debug\IteratorGenericList.exe.config
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\IteratorGenericListSolution\IteratorGenericList\bin\Debug\IteratorGenericList.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\IteratorGenericListSolution\IteratorGenericList\bin\Debug\IteratorGenericList.pdb
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\IteratorGenericListSolution\IteratorGenericList\obj\Debug\IteratorGenericList.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\IteratorGenericListSolution\IteratorGenericList\obj\Debug\IteratorGenericList.pdb

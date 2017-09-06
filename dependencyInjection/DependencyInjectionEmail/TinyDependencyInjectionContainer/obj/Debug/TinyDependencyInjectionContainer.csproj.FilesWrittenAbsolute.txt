@@ -1,0 +1,10 @@
+/home/dani/git/tap/TinyDependencyInjectionContainer/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/TinyDependencyInjectionContainer/bin/Debug/TinyDependencyInjectionContainer.dll.mdb
+/home/dani/git/tap/TinyDependencyInjectionContainer/bin/Debug/TinyDependencyInjectionContainer.dll
+/home/dani/git/tap/TinyDependencyInjectionContainer/obj/Debug/TinyDependencyInjectionContainer.dll
+/home/dani/git/tap/TinyDependencyInjectionContainer/obj/Debug/TinyDependencyInjectionContainer.dll.mdb
+/home/dani/git/tap/DependencyInjectionEmail/TinyDependencyInjectionContainer/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/DependencyInjectionEmail/TinyDependencyInjectionContainer/bin/Debug/TinyDependencyInjectionContainer.dll.mdb
+/home/dani/git/tap/DependencyInjectionEmail/TinyDependencyInjectionContainer/bin/Debug/TinyDependencyInjectionContainer.dll
+/home/dani/git/tap/DependencyInjectionEmail/TinyDependencyInjectionContainer/obj/Debug/TinyDependencyInjectionContainer.dll
+/home/dani/git/tap/DependencyInjectionEmail/TinyDependencyInjectionContainer/obj/Debug/TinyDependencyInjectionContainer.dll.mdb

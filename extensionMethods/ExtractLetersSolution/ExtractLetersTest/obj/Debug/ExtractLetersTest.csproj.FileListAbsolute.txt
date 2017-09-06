@@ -1,0 +1,11 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\ExtractLetersTest.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\ExtractLetersTest.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\ExtractLetersNamespace.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\nunit.framework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\ExtractLetersNamespace.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\nunit.framework.xml
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\obj\Debug\ExtractLetersTest.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\obj\Debug\ExtractLetersTest.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersTest\obj\Debug\ExtractLetersTest.pdb

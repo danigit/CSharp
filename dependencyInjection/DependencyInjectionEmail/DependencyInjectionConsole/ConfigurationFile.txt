@@ -1,0 +1,2 @@
+﻿#EmailSenderInterface.dll*EmailSenderInterface.IEmailSender*../../../EmailSenderImplementation1/bin/Debug/EmailSenderImplementation1.dll*EmailSenderImplementation1.ESImplementationOne
+EmailSenderInterface.dll*EmailSenderInterface.IEmailSender*../../../EmailSenderImplementation2/bin/Debug/EmailSenderImplementation2.dll*EmailSenderImplementation2.ESImplementationTwo

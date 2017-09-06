@@ -1,0 +1,11 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\SlidingWindowTest.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\SlidingWindowTest.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\nunit.framework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\SlidingWindowAverage.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\SlidingWindowAverage.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\nunit.framework.xml
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\obj\Debug\SlidingWindowTest.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\obj\Debug\SlidingWindowTest.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowTest\obj\Debug\SlidingWindowTest.pdb

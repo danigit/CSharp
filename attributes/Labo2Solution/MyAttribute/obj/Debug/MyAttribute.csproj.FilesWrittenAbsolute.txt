@@ -1,0 +1,5 @@
+/home/dani/git/tap/Labo2Solution/MyAttribute/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/Labo2Solution/MyAttribute/bin/Debug/MyAttribute.dll.mdb
+/home/dani/git/tap/Labo2Solution/MyAttribute/bin/Debug/MyAttribute.dll
+/home/dani/git/tap/Labo2Solution/MyAttribute/obj/Debug/MyAttribute.dll
+/home/dani/git/tap/Labo2Solution/MyAttribute/obj/Debug/MyAttribute.dll.mdb

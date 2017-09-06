@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../DependencyInjectionConsole" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../EmailSenderImplementation1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../EmailSenderImplementation2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../EmailSenderInterface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TinyDependencyInjectionContainer" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../DependencyInjectionConsole/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../DependencyInjectionConsole/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EmailSenderImplementation1/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EmailSenderImplementation1/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EmailSenderImplementation2/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EmailSenderImplementation2/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EmailSenderInterface/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EmailSenderInterface/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TinyDependencyInjectionContainer/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TinyDependencyInjectionContainer/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

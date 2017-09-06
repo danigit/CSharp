@@ -1,0 +1,5 @@
+/home/dani/git/tap/splitReverse/SplitAndReverseSolultion/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/splitReverse/SplitAndReverseSolultion/bin/Debug/SplitAndReverseSolultionNamespace.dll.mdb
+/home/dani/git/tap/splitReverse/SplitAndReverseSolultion/bin/Debug/SplitAndReverseSolultionNamespace.dll
+/home/dani/git/tap/splitReverse/SplitAndReverseSolultion/obj/Debug/SplitAndReverseSolultionNamespace.dll
+/home/dani/git/tap/splitReverse/SplitAndReverseSolultion/obj/Debug/SplitAndReverseSolultionNamespace.dll.mdb

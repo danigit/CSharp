@@ -1,0 +1,5 @@
+/home/dani/git/tap/eventHandlingBroadcast/EventHandlingBroadcast/EventHandlingBroadcast/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/eventHandlingBroadcast/EventHandlingBroadcast/EventHandlingBroadcast/bin/Debug/EventHandlingBroadcast.exe.mdb
+/home/dani/git/tap/eventHandlingBroadcast/EventHandlingBroadcast/EventHandlingBroadcast/bin/Debug/EventHandlingBroadcast.exe
+/home/dani/git/tap/eventHandlingBroadcast/EventHandlingBroadcast/EventHandlingBroadcast/obj/Debug/EventHandlingBroadcast.exe
+/home/dani/git/tap/eventHandlingBroadcast/EventHandlingBroadcast/EventHandlingBroadcast/obj/Debug/EventHandlingBroadcast.exe.mdb

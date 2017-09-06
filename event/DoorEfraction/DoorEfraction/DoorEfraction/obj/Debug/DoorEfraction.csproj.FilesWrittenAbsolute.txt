@@ -1,0 +1,5 @@
+/home/dani/git/tap/doorEfraction/DoorEfraction/DoorEfraction/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/doorEfraction/DoorEfraction/DoorEfraction/bin/Debug/DoorEfraction.exe.mdb
+/home/dani/git/tap/doorEfraction/DoorEfraction/DoorEfraction/bin/Debug/DoorEfraction.exe
+/home/dani/git/tap/doorEfraction/DoorEfraction/DoorEfraction/obj/Debug/DoorEfraction.exe
+/home/dani/git/tap/doorEfraction/DoorEfraction/DoorEfraction/obj/Debug/DoorEfraction.exe.mdb

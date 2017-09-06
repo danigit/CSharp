@@ -1,0 +1,11 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\SliceTest.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\SliceTest.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\nunit.framework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\Slice.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\Slice.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\nunit.framework.xml
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\obj\Debug\SliceTest.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\obj\Debug\SliceTest.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\SliceTest\obj\Debug\SliceTest.pdb

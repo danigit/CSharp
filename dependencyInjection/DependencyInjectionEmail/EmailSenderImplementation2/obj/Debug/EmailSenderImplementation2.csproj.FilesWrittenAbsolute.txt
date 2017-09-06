@@ -1,0 +1,5 @@
+/home/dani/git/tap/EmailSenderImplementation2/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/EmailSenderImplementation2/bin/Debug/EmailSenderImplementation2.dll.mdb
+/home/dani/git/tap/EmailSenderImplementation2/bin/Debug/EmailSenderImplementation2.dll
+/home/dani/git/tap/EmailSenderImplementation2/bin/Debug/EmailSenderInterface.dll
+/home/dani/git/tap/EmailSenderImplementation2/bin/Debug/EmailSenderInterface.dll.mdb

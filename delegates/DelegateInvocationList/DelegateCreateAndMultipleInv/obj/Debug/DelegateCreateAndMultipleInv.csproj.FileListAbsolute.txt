@@ -1,0 +1,6 @@
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCreateAndMultipleInvSol\DelegateCreateAndMultipleInv\bin\Debug\DelegateCreateAndMultipleInv.exe.config
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCreateAndMultipleInvSol\DelegateCreateAndMultipleInv\bin\Debug\DelegateCreateAndMultipleInv.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCreateAndMultipleInvSol\DelegateCreateAndMultipleInv\bin\Debug\DelegateCreateAndMultipleInv.pdb
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCreateAndMultipleInvSol\DelegateCreateAndMultipleInv\obj\Debug\DelegateCreateAndMultipleInv.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCreateAndMultipleInvSol\DelegateCreateAndMultipleInv\obj\Debug\DelegateCreateAndMultipleInv.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\DelegateCreateAndMultipleInvSol\DelegateCreateAndMultipleInv\obj\Debug\DelegateCreateAndMultipleInv.pdb

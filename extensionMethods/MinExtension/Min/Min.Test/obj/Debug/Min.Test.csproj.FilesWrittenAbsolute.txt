@@ -1,0 +1,8 @@
+/home/dani/git/tap/minExtension/Min/Min.Test/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/minExtension/Min/Min.Test/bin/Debug/Min.Test.dll.mdb
+/home/dani/git/tap/minExtension/Min/Min.Test/bin/Debug/Min.Test.dll
+/home/dani/git/tap/minExtension/Min/Min.Test/obj/Debug/Min.Test.dll
+/home/dani/git/tap/minExtension/Min/Min.Test/obj/Debug/Min.Test.dll.mdb
+/home/dani/git/tap/minExtension/Min/Min.Test/bin/Debug/nunit.framework.dll
+/home/dani/git/tap/minExtension/Min/Min.Test/bin/Debug/Min.dll
+/home/dani/git/tap/minExtension/Min/Min.Test/bin/Debug/Min.dll.mdb

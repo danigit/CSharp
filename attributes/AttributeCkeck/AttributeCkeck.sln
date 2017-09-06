@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeCkeck", "AttributeCkeck/AttributeCkeck.csproj", "{3A345943-64CD-4CCA-B9B8-C2A694CA38AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Executer", "Executer\Executer.csproj", "{A28213C6-BD5E-41BF-A837-4FB327208BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAttribute", "TestAttribute\TestAttribute.csproj", "{E89B801D-E44D-4EFF-969C-500E35015988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A345943-64CD-4CCA-B9B8-C2A694CA38AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A345943-64CD-4CCA-B9B8-C2A694CA38AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A345943-64CD-4CCA-B9B8-C2A694CA38AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A345943-64CD-4CCA-B9B8-C2A694CA38AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28213C6-BD5E-41BF-A837-4FB327208BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28213C6-BD5E-41BF-A837-4FB327208BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28213C6-BD5E-41BF-A837-4FB327208BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28213C6-BD5E-41BF-A837-4FB327208BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89B801D-E44D-4EFF-969C-500E35015988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89B801D-E44D-4EFF-969C-500E35015988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89B801D-E44D-4EFF-969C-500E35015988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89B801D-E44D-4EFF-969C-500E35015988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

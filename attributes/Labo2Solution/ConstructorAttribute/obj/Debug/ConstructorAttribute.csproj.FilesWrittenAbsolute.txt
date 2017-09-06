@@ -1,0 +1,5 @@
+/home/dani/git/tap/Labo2Solution/ConstructorAttribute/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/Labo2Solution/ConstructorAttribute/bin/Debug/ConstructorAttribute.dll.mdb
+/home/dani/git/tap/Labo2Solution/ConstructorAttribute/bin/Debug/ConstructorAttribute.dll
+/home/dani/git/tap/Labo2Solution/ConstructorAttribute/obj/Debug/ConstructorAttribute.dll
+/home/dani/git/tap/Labo2Solution/ConstructorAttribute/obj/Debug/ConstructorAttribute.dll.mdb

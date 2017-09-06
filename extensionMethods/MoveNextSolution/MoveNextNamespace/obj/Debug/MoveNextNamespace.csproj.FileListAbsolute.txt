@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\MoveNextSolution\MoveNextNamespace\bin\Debug\MoveNextNamespace.exe.config
+C:\Users\Danile Surpanu\Desktop\tapExam\MoveNextSolution\MoveNextNamespace\bin\Debug\MoveNextNamespace.exe
+C:\Users\Danile Surpanu\Desktop\tapExam\MoveNextSolution\MoveNextNamespace\bin\Debug\MoveNextNamespace.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\MoveNextSolution\MoveNextNamespace\obj\Debug\MoveNextNamespace.exe
+C:\Users\Danile Surpanu\Desktop\tapExam\MoveNextSolution\MoveNextNamespace\obj\Debug\MoveNextNamespace.pdb

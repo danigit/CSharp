@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\OnlusStorageSolution\OnlusStorage\bin\Debug\OnlusStorage.exe.config
+C:\Users\Danile Surpanu\Desktop\tapExam\OnlusStorageSolution\OnlusStorage\bin\Debug\OnlusStorage.exe
+C:\Users\Danile Surpanu\Desktop\tapExam\OnlusStorageSolution\OnlusStorage\bin\Debug\OnlusStorage.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\OnlusStorageSolution\OnlusStorage\obj\Debug\OnlusStorage.exe
+C:\Users\Danile Surpanu\Desktop\tapExam\OnlusStorageSolution\OnlusStorage\obj\Debug\OnlusStorage.pdb

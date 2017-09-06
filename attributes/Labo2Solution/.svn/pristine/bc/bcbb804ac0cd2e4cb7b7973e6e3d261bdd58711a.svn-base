@@ -1,0 +1,76 @@
+﻿using System;
+using System.Diagnostics;
+using System.IO;
+using System.Reflection;
+using MyAttribute;
+using ConstructorAttribute;
+
+namespace Labo2
+{
+    internal class Executer
+    {
+        public static void Main(string[] args)
+        {
+            var assembly = Assembly.LoadFrom("../../../MyLibrary/bin/Debug/MyLibrary.dll");
+            Type[] classes = assembly.GetTypes();
+            object newObject = null;
+            foreach (var clas in classes)
+            {
+                //if I put the try outside the for doesn't catch the default constructor missing exception
+                try
+                {
+
+                    if (clas.IsClass)
+                    {
+                        //get all the constructors to see if there are parameterized constructors
+                        foreach (var constructor in clas.GetConstructors())
+                        {
+                            //if yes I get the parameters and create a new object with the parameters, if non i create an object without parameters
+                            if (constructor.GetParameters().Length != 0)
+                            {
+                                foreach (var constructorAttributes in constructor.GetCustomAttributes(false))
+                                {
+                                    var construct = constructorAttributes as ConstructMeAttribute;
+                                    if (construct != null)
+                                    {
+                                        newObject = Activator.CreateInstance(clas, construct.Param);
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                newObject = Activator.CreateInstance(clas);
+                            }
+                            foreach (var methods in clas.GetMethods())
+                            {
+                                foreach (var attribute in methods.GetCustomAttributes(false))
+                                {
+                                    var attr = attribute as ExecuteMeAttribute;
+                                    if (attr != null)
+                                    {
+                                        methods.Invoke(newObject, ((ExecuteMeAttribute)attribute).param);
+                                    }
+                                }
+                            }
+                        }
+                        
+                          
+                        
+                    }
+                }
+                catch (Exception e)
+                {
+                    if (e is IOException || e is ArgumentException || e is TargetParameterCountException ||
+                        e is MissingMethodException)
+                    {
+                        //nsole.WriteLine("An error has occured " + e.GetType());
+                        Debug.WriteLine("The ecception was " + e.Message);
+                    }
+                }
+
+            }
+
+            Console.ReadLine();
+        }
+    }
+}

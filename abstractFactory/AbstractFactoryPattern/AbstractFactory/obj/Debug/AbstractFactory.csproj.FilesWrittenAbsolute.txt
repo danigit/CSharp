@@ -1,0 +1,5 @@
+/home/dani/git/tap/abstractFactory/AbstractFactoryPattern/AbstractFactory/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/abstractFactory/AbstractFactoryPattern/AbstractFactory/bin/Debug/AbstractFactory.exe.mdb
+/home/dani/git/tap/abstractFactory/AbstractFactoryPattern/AbstractFactory/bin/Debug/AbstractFactory.exe
+/home/dani/git/tap/abstractFactory/AbstractFactoryPattern/AbstractFactory/obj/Debug/AbstractFactory.exe
+/home/dani/git/tap/abstractFactory/AbstractFactoryPattern/AbstractFactory/obj/Debug/AbstractFactory.exe.mdb

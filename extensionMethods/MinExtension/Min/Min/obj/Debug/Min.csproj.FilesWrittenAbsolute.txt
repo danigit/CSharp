@@ -1,0 +1,5 @@
+/home/dani/git/tap/minExtension/Min/Min/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/minExtension/Min/Min/bin/Debug/Min.dll.mdb
+/home/dani/git/tap/minExtension/Min/Min/bin/Debug/Min.dll
+/home/dani/git/tap/minExtension/Min/Min/obj/Debug/Min.dll
+/home/dani/git/tap/minExtension/Min/Min/obj/Debug/Min.dll.mdb

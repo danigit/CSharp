@@ -1,0 +1,8 @@
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/bin/Debug/ExtractLetersNamespace.dll.config
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/bin/Debug/ExtractLetersNamespace.dll.mdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/bin/Debug/ExtractLetersNamespace.pdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/bin/Debug/ExtractLetersNamespace.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/obj/Debug/ExtractLetersNamespace.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/obj/Debug/ExtractLetersNamespace.dll.mdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersNamespace/obj/Debug/ExtractLetersNamespace.pdb

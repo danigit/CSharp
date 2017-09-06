@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersNamespace\bin\Debug\ExtractLetersNamespace.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersNamespace\obj\Debug\ExtractLetersNamespace.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersNamespace\bin\Debug\ExtractLetersNamespace.dll.config
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersNamespace\bin\Debug\ExtractLetersNamespace.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtractLetersSolution\ExtractLetersNamespace\obj\Debug\ExtractLetersNamespace.dll

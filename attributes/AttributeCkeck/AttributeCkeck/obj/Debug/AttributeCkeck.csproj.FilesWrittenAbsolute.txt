@@ -1,0 +1,5 @@
+/home/dani/git/tap/extensionMethods/AttributeCkeck/AttributeCkeck/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/extensionMethods/AttributeCkeck/AttributeCkeck/bin/Debug/AttributeCkeck.dll.mdb
+/home/dani/git/tap/extensionMethods/AttributeCkeck/AttributeCkeck/bin/Debug/AttributeCkeck.dll
+/home/dani/git/tap/extensionMethods/AttributeCkeck/AttributeCkeck/obj/Debug/AttributeCkeck.dll
+/home/dani/git/tap/extensionMethods/AttributeCkeck/AttributeCkeck/obj/Debug/AttributeCkeck.dll.mdb

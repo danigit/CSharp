@@ -1,0 +1,10 @@
+/home/dani/git/tap/Labo2Solution/Labo2/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/Labo2.exe.config
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/Labo2.exe.mdb
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/Labo2.exe
+/home/dani/git/tap/Labo2Solution/Labo2/obj/Debug/Labo2.exe
+/home/dani/git/tap/Labo2Solution/Labo2/obj/Debug/Labo2.exe.mdb
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/ConstructorAttribute.dll
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/ConstructorAttribute.dll.mdb
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/MyAttribute.dll
+/home/dani/git/tap/Labo2Solution/Labo2/bin/Debug/MyAttribute.dll.mdb

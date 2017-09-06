@@ -1,0 +1,12 @@
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/ExtractLetersTest.dll.mdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/ExtractLetersTest.pdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/ExtractLetersTest.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/obj/Debug/ExtractLetersTest.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/obj/Debug/ExtractLetersTest.dll.mdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/obj/Debug/ExtractLetersTest.pdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/nunit.framework.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/ExtractLetersNamespace.dll
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/ExtractLetersNamespace.dll.mdb
+/home/dani/git/tap/ExtractLetersSolution/ExtractLetersTest/bin/Debug/ExtractLetersNamespace.pdb

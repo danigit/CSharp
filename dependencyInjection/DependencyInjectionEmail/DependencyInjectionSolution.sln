@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSenderInterface", "EmailSenderInterface\EmailSenderInterface.csproj", "{CA65730D-3269-4D92-8468-2FE3C04EF60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSenderImplementation1", "EmailSenderImplementation1\EmailSenderImplementation1.csproj", "{3D130B53-5A58-466D-A6C4-5AD3B86CB7BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSenderImplementation2", "EmailSenderImplementation2\EmailSenderImplementation2.csproj", "{569EB5A4-42D5-467A-9E09-47B17A01450D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyDependencyInjectionContainer", "TinyDependencyInjectionContainer\TinyDependencyInjectionContainer.csproj", "{55AF06D8-20D1-4357-8F27-BA5033F1F3F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9188F370-5235-400B-9A6C-865286B14362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionConsole", "DependencyInjectionConsole\DependencyInjectionConsole.csproj", "{1D18FC5A-49E7-44BB-8156-37E896BB4C04}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA65730D-3269-4D92-8468-2FE3C04EF60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA65730D-3269-4D92-8468-2FE3C04EF60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA65730D-3269-4D92-8468-2FE3C04EF60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA65730D-3269-4D92-8468-2FE3C04EF60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D130B53-5A58-466D-A6C4-5AD3B86CB7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D130B53-5A58-466D-A6C4-5AD3B86CB7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D130B53-5A58-466D-A6C4-5AD3B86CB7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D130B53-5A58-466D-A6C4-5AD3B86CB7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569EB5A4-42D5-467A-9E09-47B17A01450D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569EB5A4-42D5-467A-9E09-47B17A01450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569EB5A4-42D5-467A-9E09-47B17A01450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569EB5A4-42D5-467A-9E09-47B17A01450D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AF06D8-20D1-4357-8F27-BA5033F1F3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AF06D8-20D1-4357-8F27-BA5033F1F3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AF06D8-20D1-4357-8F27-BA5033F1F3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AF06D8-20D1-4357-8F27-BA5033F1F3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D18FC5A-49E7-44BB-8156-37E896BB4C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D18FC5A-49E7-44BB-8156-37E896BB4C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D18FC5A-49E7-44BB-8156-37E896BB4C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D18FC5A-49E7-44BB-8156-37E896BB4C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

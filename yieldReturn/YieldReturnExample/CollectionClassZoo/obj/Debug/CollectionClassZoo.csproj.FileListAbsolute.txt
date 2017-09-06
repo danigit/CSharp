@@ -1,0 +1,6 @@
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\CollectionClassZooSolution\CollectionClassZoo\bin\Debug\CollectionClassZoo.exe.config
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\CollectionClassZooSolution\CollectionClassZoo\bin\Debug\CollectionClassZoo.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\CollectionClassZooSolution\CollectionClassZoo\bin\Debug\CollectionClassZoo.pdb
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\CollectionClassZooSolution\CollectionClassZoo\obj\Debug\CollectionClassZoo.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\CollectionClassZooSolution\CollectionClassZoo\obj\Debug\CollectionClassZoo.exe
+C:\Users\Danile Surpanu\Documents\Visual Studio 2015\Projects\DatabaseRepositori\CollectionClassZooSolution\CollectionClassZoo\obj\Debug\CollectionClassZoo.pdb

@@ -1,0 +1,4 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\String2BitSolution\String2BitNamespace\bin\Debug\String2BitNamespace.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\String2BitSolution\String2BitNamespace\obj\Debug\String2BitNamespace.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\String2BitSolution\String2BitNamespace\bin\Debug\String2BitNamespace.exe
+C:\Users\Danile Surpanu\Desktop\tapExam\String2BitSolution\String2BitNamespace\obj\Debug\String2BitNamespace.exe

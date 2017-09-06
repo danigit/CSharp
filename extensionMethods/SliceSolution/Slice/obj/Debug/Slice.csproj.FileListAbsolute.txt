@@ -1,0 +1,4 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\Slice\bin\Debug\Slice.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\Slice\bin\Debug\Slice.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\Slice\obj\Debug\Slice.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SliceSolution\Slice\obj\Debug\Slice.pdb

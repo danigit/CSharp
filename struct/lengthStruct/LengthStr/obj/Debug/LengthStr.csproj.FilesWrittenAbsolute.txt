@@ -1,0 +1,5 @@
+/home/dani/git/tap/lengthStruct/LengthStr/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/lengthStruct/LengthStr/bin/Debug/LengthStr.dll.mdb
+/home/dani/git/tap/lengthStruct/LengthStr/bin/Debug/LengthStr.dll
+/home/dani/git/tap/lengthStruct/LengthStr/obj/Debug/LengthStr.dll
+/home/dani/git/tap/lengthStruct/LengthStr/obj/Debug/LengthStr.dll.mdb

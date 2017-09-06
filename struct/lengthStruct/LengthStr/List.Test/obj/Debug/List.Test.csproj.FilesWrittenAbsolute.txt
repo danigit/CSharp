@@ -1,0 +1,8 @@
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/bin/Debug/nunit.framework.dll
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/bin/Debug/LengthStr.dll
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/bin/Debug/LengthStr.dll.mdb
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/bin/Debug/List.Test.dll.mdb
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/bin/Debug/List.Test.dll
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/obj/Debug/List.Test.dll
+/home/dani/git/tap/lengthStruct/LengthStr/List.Test/obj/Debug/List.Test.dll.mdb

@@ -1,0 +1,9 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\bin\Debug\ExtensionMethods.Tests.cs.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\bin\Debug\ExtensionMethods.Tests.cs.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\bin\Debug\ExtensionMethods.exe
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\bin\Debug\nunit.framework.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\bin\Debug\ExtensionMethods.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\bin\Debug\nunit.framework.xml
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\obj\Debug\ExtensionMethods.Tests.cs.csprojResolveAssemblyReference.cache
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\obj\Debug\ExtensionMethods.Tests.cs.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\ExtensionMethodsSolution\ExtensionMethods.Tests.cs\obj\Debug\ExtensionMethods.Tests.cs.pdb

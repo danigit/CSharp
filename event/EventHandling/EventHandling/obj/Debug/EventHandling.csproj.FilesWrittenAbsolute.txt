@@ -1,0 +1,5 @@
+/home/dani/git/tap/eventHandling/EventHandling/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/eventHandling/EventHandling/bin/Debug/EventHandling.exe.mdb
+/home/dani/git/tap/eventHandling/EventHandling/bin/Debug/EventHandling.exe
+/home/dani/git/tap/eventHandling/EventHandling/obj/Debug/EventHandling.exe
+/home/dani/git/tap/eventHandling/EventHandling/obj/Debug/EventHandling.exe.mdb

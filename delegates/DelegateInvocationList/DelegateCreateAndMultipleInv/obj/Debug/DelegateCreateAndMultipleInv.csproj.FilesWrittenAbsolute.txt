@@ -1,0 +1,8 @@
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/bin/Debug/DelegateCreateAndMultipleInv.exe.config
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/bin/Debug/DelegateCreateAndMultipleInv.exe.mdb
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/bin/Debug/DelegateCreateAndMultipleInv.pdb
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/bin/Debug/DelegateCreateAndMultipleInv.exe
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/obj/Debug/DelegateCreateAndMultipleInv.exe
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/obj/Debug/DelegateCreateAndMultipleInv.exe.mdb
+/home/dani/git/tap/DatabaseRepositori/DelegateCreateAndMultipleInvSol/DelegateCreateAndMultipleInv/obj/Debug/DelegateCreateAndMultipleInv.pdb

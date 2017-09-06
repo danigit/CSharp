@@ -1,0 +1,5 @@
+/home/dani/git/tap/diversityCheck/DiversityCheck/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/tap/diversityCheck/DiversityCheck/bin/Debug/DiversityCheck.dll.mdb
+/home/dani/git/tap/diversityCheck/DiversityCheck/bin/Debug/DiversityCheck.dll
+/home/dani/git/tap/diversityCheck/DiversityCheck/obj/Debug/DiversityCheck.dll
+/home/dani/git/tap/diversityCheck/DiversityCheck/obj/Debug/DiversityCheck.dll.mdb

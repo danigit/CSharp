@@ -1,0 +1,5 @@
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowAverage\bin\Debug\SlidingWindowAverage.dll.config
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowAverage\bin\Debug\SlidingWindowAverage.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowAverage\bin\Debug\SlidingWindowAverage.pdb
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowAverage\obj\Debug\SlidingWindowAverage.dll
+C:\Users\Danile Surpanu\Desktop\tapExam\SlidingWindowAverageSolution\SlidingWindowAverage\obj\Debug\SlidingWindowAverage.pdb
