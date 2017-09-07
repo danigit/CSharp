@@ -2,6 +2,7 @@
 
 namespace ArtificialBrainFactory{
   public class SeeFactory: AbstractFactory{
+
     public override ISee CreateSee( string what ){
       if( string.IsNullOrEmpty( what ) )
         throw new ArgumentNullException( );
@@ -26,7 +27,7 @@ namespace ArtificialBrainFactory{
 
   public class SpeakFactory: AbstractFactory{
     public override ISee CreateSee( string what ){
-      throw new System.NotImplementedException( );
+      return null;
     }
 
     public override ISpeak CreateSpeak( string what ){
@@ -43,7 +44,7 @@ namespace ArtificialBrainFactory{
     }
 
     public override IThink CreateThink( string what ){
-      throw new System.NotImplementedException( );
+      return null;
     }
   }
 

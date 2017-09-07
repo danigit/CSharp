@@ -2,6 +2,7 @@
 
 namespace ArtificialBrainFactory{
   public class ConcreteFactory{
+
     public static AbstractFactory GetFactory( string type ){
       if( string.IsNullOrEmpty( type ) )
         throw new ArgumentNullException( );

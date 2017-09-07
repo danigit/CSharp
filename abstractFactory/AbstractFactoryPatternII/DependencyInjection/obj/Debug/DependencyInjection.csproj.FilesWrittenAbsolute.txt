@@ -1,0 +1,5 @@
+/home/dani/git/cSharp/abstractFactory/DependencyInjection/DependencyInjection/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/abstractFactory/DependencyInjection/DependencyInjection/bin/Debug/DependencyInjection.exe.mdb
+/home/dani/git/cSharp/abstractFactory/DependencyInjection/DependencyInjection/bin/Debug/DependencyInjection.exe
+/home/dani/git/cSharp/abstractFactory/DependencyInjection/DependencyInjection/obj/Debug/DependencyInjection.exe
+/home/dani/git/cSharp/abstractFactory/DependencyInjection/DependencyInjection/obj/Debug/DependencyInjection.exe.mdb

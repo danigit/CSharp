@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialBrainFactory", "ArtificialBrainFactory.csproj", "{5FB9FD55-E7DE-444F-9685-12C4F82A4367}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialBrainFactory", "AbstractFactory/ArtificialBrainFactory.csproj", "{5FB9FD55-E7DE-444F-9685-12C4F82A4367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
