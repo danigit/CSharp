@@ -2,10 +2,11 @@
 using ComplexityAttribute;
 
 namespace Executer{
-  public class ComplexityTest{
+  public class ExecuterClass{
     [ComplexityClass( "Class1 Method1", 10 )]
+    [ComplexityClass( "Class1 Method1", 5 )]
     public string Method1( string str ){
-      return "ciao da Method1 Class1";
+      return "Hello form Method1 Class1";
     }
   }
 }

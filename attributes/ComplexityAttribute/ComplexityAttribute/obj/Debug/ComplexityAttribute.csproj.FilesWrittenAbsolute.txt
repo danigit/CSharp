@@ -3,3 +3,8 @@
 /home/dani/git/tap/extensionMethods/ComplexityAttribute/ComplexityAttribute/bin/Debug/ComplexityAttribute.dll
 /home/dani/git/tap/extensionMethods/ComplexityAttribute/ComplexityAttribute/obj/Debug/ComplexityAttribute.dll
 /home/dani/git/tap/extensionMethods/ComplexityAttribute/ComplexityAttribute/obj/Debug/ComplexityAttribute.dll.mdb
+/home/dani/git/cSharp/attributes/ComplexityAttribute/ComplexityAttribute/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/attributes/ComplexityAttribute/ComplexityAttribute/bin/Debug/ComplexityAttribute.dll.mdb
+/home/dani/git/cSharp/attributes/ComplexityAttribute/ComplexityAttribute/bin/Debug/ComplexityAttribute.dll
+/home/dani/git/cSharp/attributes/ComplexityAttribute/ComplexityAttribute/obj/Debug/ComplexityAttribute.dll
+/home/dani/git/cSharp/attributes/ComplexityAttribute/ComplexityAttribute/obj/Debug/ComplexityAttribute.dll.mdb

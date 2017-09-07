@@ -5,3 +5,10 @@
 /home/dani/git/tap/extensionMethods/ComplexityAttribute/TestAttribute/obj/Debug/TestAttribute.exe.mdb
 /home/dani/git/tap/extensionMethods/ComplexityAttribute/TestAttribute/bin/Debug/ComplexityAttribute.dll
 /home/dani/git/tap/extensionMethods/ComplexityAttribute/TestAttribute/bin/Debug/ComplexityAttribute.dll.mdb
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/bin/Debug/TestAttribute.exe.mdb
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/bin/Debug/TestAttribute.exe
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/obj/Debug/TestAttribute.exe
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/obj/Debug/TestAttribute.exe.mdb
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/bin/Debug/ComplexityAttribute.dll
+/home/dani/git/cSharp/attributes/ComplexityAttribute/TestAttribute/bin/Debug/ComplexityAttribute.dll.mdb

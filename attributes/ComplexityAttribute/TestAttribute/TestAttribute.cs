@@ -12,7 +12,6 @@ namespace TestAttribute{
         Console.WriteLine( o.Key + " - " + o.Value );
       Console.WriteLine( "Il livello minimo e " +
                          AuthorMinLevel( "../../../Executer/bin/Debug/Executer.dll", "Class1 Method1" ) );
-      Console.ReadKey( );
     }
 
     public static Dictionary<object, int> GetComplexity( string assembly ){
@@ -23,19 +22,13 @@ namespace TestAttribute{
         var complexity = 0;
         var count = 0;
         foreach( var methodInfo in @class.GetMethods( ) )
-          foreach( ComplexityClassAttribute customAttribute in methodInfo.GetCustomAttributes( typeof( ComplexityClassAttribute ),
-                                                                                          false ) )
+          foreach( ComplexityClassAttribute customAttribute in methodInfo.GetCustomAttributes( typeof( ComplexityClassAttribute ), false ) )
             if( customAttribute != null ){
               count++;
               complexity += customAttribute.Complexity;
             }
-        try{
-          if( count != 0 )
-            result.Add( @class.Name, complexity / count );
-        } catch( Exception e ){
-          Console.WriteLine( e );
-          throw;
-        }
+        if( count != 0 )
+          result.Add( @class.Name, complexity / count );
       }
       return result;
     }
@@ -46,8 +39,7 @@ namespace TestAttribute{
       var classes = loadDll.GetTypes( );
       foreach( var @class in classes ){
         foreach( var methodInfo in @class.GetMethods( ) )
-          foreach( ComplexityClassAttribute customAttribute in methodInfo.GetCustomAttributes( typeof( ComplexityClassAttribute ),
-                                                                                          false ) )
+          foreach( ComplexityClassAttribute customAttribute in methodInfo.GetCustomAttributes( typeof( ComplexityClassAttribute ), false ) )
             if( customAttribute != null ){
               if( customAttribute.Author == name ){
                 minLevel.Add( customAttribute.Complexity );
