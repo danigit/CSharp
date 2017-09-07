@@ -10,9 +10,9 @@ namespace AttributeChaeck{
 
     public RangeCheckedAttribute( string paramName, int maximum, int minimum ){
       if( string.IsNullOrEmpty( paramName ) )
-        throw new ArgumentException( );
+        throw new ArgumentNullException( );
       if( maximum < minimum )
-        throw new ArgumentException( );
+        throw new ArgumentOutOfRangeException();
       ParamName = paramName;
       Maxim = maximum;
       Minim = minimum;

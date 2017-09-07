@@ -14,14 +14,18 @@ namespace TestAttribute{
 
       foreach( var @class in classes ){
         var methods = @class.GetMethods( BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly );
-        var obj = new ExecuterClass( );
+        var executer = (ExecuterClass) Activator.CreateInstance( @class );
 
         foreach( var method in methods ){
           if( VerifyRangeCheckedAttributes( method ) )
             Console.WriteLine( "The attributes are correct for method " + method.Name );
           else
             Console.WriteLine( "The attributes are incorrect for method " + method.Name );
-          Console.WriteLine( CheckedIntParamInvocation<int>( method, obj, new[]{ 4, 3 } ) );
+
+          if(method.GetParameters(  ).Length == 2)
+            Console.WriteLine( "The invocation of the method returns " + CheckedIntParamInvocation<int>( method, executer, new[]{ 4, 3 } ) );
+          if(method.GetParameters(  ).Length == 3)
+            Console.WriteLine( "The invocation of the method returns " + CheckedIntParamInvocation<int>( method, executer, new[]{ 4, 3, 13 } ) );
         }
       }
     }
@@ -33,31 +37,26 @@ namespace TestAttribute{
       )
         if( attribute != null )
           attributeValues.Add( attribute.ParamName );
-      var parameters = new List<string>( );
 
-      foreach( var parameter in method.GetParameters( ) )
-        parameters.Add( parameter.Name );
-      if( attributeValues.SequenceEqual( parameters ) )
-        return true;
-      return false;
+      var parameters = method.GetParameters( ).Select( parameter => parameter.Name ).ToList( );
+
+      return attributeValues.SequenceEqual( parameters );
     }
 
     public static T CheckedIntParamInvocation<T>( MethodInfo method, ExecuterClass obj, int[] parameters ){
 
       var attributeValues = new Dictionary<int, List<int>>( );
       var i = 1;
+
       foreach( RangeCheckedAttribute attribute in method.GetCustomAttributes( typeof( RangeCheckedAttribute ), false )
       )
-        if( attribute != null ){
-          var maxMin = new List<int>( );
-          maxMin.Add( attribute.Minim );
-          maxMin.Add( attribute.Maxim );
-          attributeValues.Add( i, maxMin );
-          i++;
-        }
+        if( attribute != null )
+          attributeValues.Add( i++, new List<int>{ attribute.Minim, attribute.Maxim} );
+
       foreach( var key in attributeValues )
         if( !( key.Value[0] < parameters[key.Key - 1] && parameters[key.Key - 1] < key.Value[1] ) )
           throw new ArgumentOutOfRangeException( );
+
       i = 0;
       var param = new object[parameters.Length];
       foreach( var parameter in parameters )
