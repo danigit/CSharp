@@ -1,0 +1,8 @@
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/bin/Debug/DelegateCovarianceControvarianc.exe.config
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/bin/Debug/DelegateCovarianceControvarianc.exe.mdb
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/bin/Debug/DelegateCovarianceControvarianc.pdb
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/bin/Debug/DelegateCovarianceControvarianc.exe
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/obj/Debug/DelegateCovarianceControvarianc.exe
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/obj/Debug/DelegateCovarianceControvarianc.exe.mdb
+/home/dani/git/cSharp/delegates/DelegateCovarianceControvariance/DelegateCovarianceControvarianc/obj/Debug/DelegateCovarianceControvarianc.pdb
