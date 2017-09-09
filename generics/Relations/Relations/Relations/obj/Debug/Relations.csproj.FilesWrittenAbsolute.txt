@@ -1,0 +1,5 @@
+/home/dani/git/cSharp/generics/Relations/Relations/Relations/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/generics/Relations/Relations/Relations/bin/Debug/Relations.dll.mdb
+/home/dani/git/cSharp/generics/Relations/Relations/Relations/bin/Debug/Relations.dll
+/home/dani/git/cSharp/generics/Relations/Relations/Relations/obj/Debug/Relations.dll
+/home/dani/git/cSharp/generics/Relations/Relations/Relations/obj/Debug/Relations.dll.mdb

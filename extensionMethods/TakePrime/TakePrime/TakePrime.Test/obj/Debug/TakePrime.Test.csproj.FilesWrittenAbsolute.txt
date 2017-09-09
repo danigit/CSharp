@@ -1,0 +1,8 @@
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/bin/Debug/TakePrime.Test.dll.mdb
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/bin/Debug/TakePrime.Test.dll
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/obj/Debug/TakePrime.Test.dll
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/obj/Debug/TakePrime.Test.dll.mdb
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/bin/Debug/nunit.framework.dll
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/bin/Debug/TakePrime.dll
+/home/dani/git/cSharp/extensionMethods/TakePrime/TakePrime/TakePrime.Test/bin/Debug/TakePrime.dll.mdb

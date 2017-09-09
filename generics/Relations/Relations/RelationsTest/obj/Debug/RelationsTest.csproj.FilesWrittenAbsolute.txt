@@ -1,0 +1,7 @@
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/bin/Debug/RelationsTest.exe.mdb
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/bin/Debug/RelationsTest.exe
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/obj/Debug/RelationsTest.exe
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/obj/Debug/RelationsTest.exe.mdb
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/bin/Debug/Relations.dll
+/home/dani/git/cSharp/generics/Relations/Relations/RelationsTest/bin/Debug/Relations.dll.mdb
