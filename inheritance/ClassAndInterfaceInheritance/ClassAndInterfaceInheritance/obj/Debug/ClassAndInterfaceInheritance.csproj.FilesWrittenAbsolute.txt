@@ -1,0 +1,5 @@
+/home/dani/git/cSharp/inheritance/ClassAndInterfaceInheritance/ClassAndInterfaceInheritance/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/inheritance/ClassAndInterfaceInheritance/ClassAndInterfaceInheritance/bin/Debug/ClassAndInterfaceInheritance.dll.mdb
+/home/dani/git/cSharp/inheritance/ClassAndInterfaceInheritance/ClassAndInterfaceInheritance/bin/Debug/ClassAndInterfaceInheritance.dll
+/home/dani/git/cSharp/inheritance/ClassAndInterfaceInheritance/ClassAndInterfaceInheritance/obj/Debug/ClassAndInterfaceInheritance.dll
+/home/dani/git/cSharp/inheritance/ClassAndInterfaceInheritance/ClassAndInterfaceInheritance/obj/Debug/ClassAndInterfaceInheritance.dll.mdb

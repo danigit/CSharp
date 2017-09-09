@@ -1,0 +1,9 @@
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/bin/Debug/AccessModifiersTest.exe.mdb
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/bin/Debug/AccessModifiersTest.exe
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/obj/Debug/AccessModifiersTest.exe
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/obj/Debug/AccessModifiersTest.exe.mdb
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/bin/Debug/AccessModifiers.dll
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/bin/Debug/AccessModifiers.dll.mdb
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/bin/Debug/DifferentDdl.dll
+/home/dani/git/cSharp/generalLanguageTopics/AccessModifiers/AccessModifiersTest/bin/Debug/DifferentDdl.dll.mdb
