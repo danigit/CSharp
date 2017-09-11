@@ -5,7 +5,7 @@ namespace RelationsTest{
   public class Test{
     public static void Main( string[] args ){
 
-      var relations = new Relations<int,int>(  );
+      var relations = new Relations<object, object>(  );
 
       relations.AddLink( 1, 2 );
       relations.AddLink( 1, 3 );
@@ -43,14 +43,18 @@ namespace RelationsTest{
         Console.Write( i + " " );
       }
 
-      var compose = new Relations<int, string>();
+      var compose = new Relations<object, object>();
 
-      compose.AddLink( 1, "uno" );
-      compose.AddLink( 4, "due" );
-      compose.AddLink( 4, "tre" );
-      compose.AddLink( 6, "quattro" );
-      compose.AddLink( 6, "cinque" );
+      compose.AddLink( 1, "one");
+      compose.AddLink( 4, "two" );
+      compose.AddLink( 4, "three");
+      compose.AddLink( 6, "four" );
+      compose.AddLink( 6, "five");
 
+      Console.WriteLine();
+      Console.WriteLine();
+      Console.WriteLine( relations.ToString(  ));
+      Console.WriteLine();
       Console.WriteLine();
       Console.WriteLine( relations.Compose( compose ));
     }

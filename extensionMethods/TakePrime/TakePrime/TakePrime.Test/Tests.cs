@@ -9,7 +9,7 @@ namespace TakePrime.Test{
     [Test]
     public void TestValidInputFiniteSequence( ){
       var sequence = Enumerable.Range( 0, 20 );
-      var result = new int[]{ 2, 3, 5, 7, 11, 13 };
+      var result = new[]{ 2, 3, 5, 7, 11, 13 };
 
       Assert.That( result, Is.EqualTo( sequence.TakePrime(6) ) );
     }
